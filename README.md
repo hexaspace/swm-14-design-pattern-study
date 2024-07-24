@@ -15,7 +15,3 @@ SW 마에스트로 14기 디자인패턴/아키텍처 스터디
     - 깃허브 레포 이용하여 공유할 것!
         - 폴더명: week1-nnn-pattern/[이름폴더]/[각자 공부한 내용 파일]
         - 브랜치 없이 / 나머지는 알아서!
-![image](https://github.com/user-attachments/assets/88da96ce-a1ff-4d1e-9640-55dbc64dd6f9)
-![notion-avatar-1721783766597](https://github.com/user-attachments/assets/f5e72b8f-eada-4f29-a1b4-dbfd659dc513)
-![notion-avatar-1721785131059](https://github.com/user-attachments/assets/b47e2838-5153-47a3-b79c-a3fde6d9b8f4)
-![image](https://github.com/user-attachments/assets/d3b53f06-b0eb-4860-8e28-e9e01a66348b)
